@@ -1,0 +1,20 @@
+.Drinks {
+  position: fixed;
+  z-index: 700;
+  width: 100%;
+  height: 38%;
+  margin: auto;
+  background-color: #fffefedc;
+  /* border: 1px solid black; */
+}
+
+.Coke {
+  top: 90px;
+  position: relative;
+  margin: 0 auto;
+  background-image: url('../../assets/images/coke.png');
+  width: 50px;
+  height: 90px;
+  background-size: cover;
+  /* background: linear-gradient(#c94828, #862f19); */
+}
